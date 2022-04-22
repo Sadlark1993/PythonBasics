@@ -1,3 +1,3 @@
-# Python Basis Learning Codes
+# Python Basic Course
 
 Feel free to use it :-)
